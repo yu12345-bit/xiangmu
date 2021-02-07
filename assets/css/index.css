@@ -1,0 +1,33 @@
+.iconfont,
+.layui-icon {
+margin-right: 8px;
+}
+.layui-icon {
+    margin-left: 20px;
+}
+iframe  {
+    height: 100%;
+    width: 100%;
+}
+.test_avatar {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #429488;
+    border-radius: 50%;
+   
+}
+.layui-nav-img {
+    display: none;
+    width: 40px;
+    height: 40px;
+}
+.userinfo {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-bottom: 1px solid #000;
+}
