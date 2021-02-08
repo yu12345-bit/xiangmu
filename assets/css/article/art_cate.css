@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding: 15px;
+}
+#btn {
+    float: right;
+    margin-top: 5px;
+}
+.layui-form {
+   padding: 30px 30px 30px 0; 
+}
