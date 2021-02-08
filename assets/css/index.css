@@ -8,6 +8,7 @@ margin-right: 8px;
 iframe  {
     height: 100%;
     width: 100%;
+    background-color: #f2f3f5;
 }
 .test_avatar {
     display: inline-block;
